@@ -3,7 +3,7 @@ Sou estudande de banco de dados
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-andrade-6a683827b/) 
+[![LinkedIn](https://www.linkedin.com/in/lucas-andrade-new/)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-andrade-6a683827b/) 
 
 # 💻 Tech Stack:
 ![Python](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
