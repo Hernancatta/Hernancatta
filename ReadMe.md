@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Bem vindos! <br>Sou estudante do 2º semestre de Banco de Dados na Faculdade Impacta de Tecnologia, com interesse em Business Intelligence e Data Analytics e futuro Data Engineer!! Ao longo deste breve percurso acadêmico, desenvolvi habilidades em:<br>Fundamentos de banco de dados<br>- Linguagem de programação (Python)<br>- Estrutura de dados <br>- SQL.<br><br>Estou me preparado para novos desafios e empolgado para aplicar meus conhecimentos em projetos reais. Minha experiência anterior na logística me ensinou a importância da eficiência e precisão, habilidades que trago comigo para o mundo dos dados.</h3>
+<h3 align="left">👩‍💻  Bem vindos! <br>Sou estudante do 2º semestre de Banco de Dados na Faculdade Impacta de Tecnologia, com interesse em Business Intelligence e Data Analytics e futuro Data Engineer!! Ao longo deste breve percurso acadêmico, desenvolvi habilidades em:<br>- Fundamentos de banco de dados<br>- Linguagem de programação (Python)<br>- Estrutura de dados <br>- SQL.<br><br>Estou me preparado para novos desafios e empolgado para aplicar meus conhecimentos em projetos reais. Minha experiência anterior na logística me ensinou a importância da eficiência e precisão, habilidades que trago comigo para o mundo dos dados.</h3>
 
 ###
 
