@@ -1,4 +1,4 @@
-<p align="left">📚Atualmente estou fazendo o curso SQL para Análise de Dados da EBAC <br>⚡Cloud</p>
+<p align="left">📚Atualmente estou fazendo o curso SQL para Análise de Dados da EBAC <br>⚡Desenvolvendo habilidades no Athena/S3 da AWS</p>
 
 ###
 
