@@ -32,6 +32,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Hernancatta/Hernancatta/output/snake.svg" alt="Snake animation" />
-
-###
