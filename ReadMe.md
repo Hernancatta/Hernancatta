@@ -1,4 +1,4 @@
-<p align="left">🔭 São paulo - Brasil<br>📚 Athena, S3, Power BI<br>⚡Cloud</p>
+<p align="left">📚 Athena, S3, Power BI<br>⚡Cloud</p>
 
 ###
 
