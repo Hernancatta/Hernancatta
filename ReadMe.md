@@ -2,7 +2,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  Bem vindos! <br>Sou estudante do 2º semestre de Banco de Dados na Faculdade Impacta de Tecnologia, com interesse em Business Intelligence e Data Analytics e futuro Data Engineer!! Ao longo deste breve percurso acadêmico, desenvolvi habilidades em:<br>- Fundamentos de banco de dados<br>- Linguagem de programação (Python)<br>- Estrutura de dados <br>- SQL.<br><br>Estou me preparado para novos desafios e empolgado para aplicar meus conhecimentos em projetos reais. Minha experiência anterior na logística me ensinou a importância da eficiência e precisão, habilidades que trago comigo para o mundo dos dados.</h3>
+<h3 align="left">👩‍💻 Bem-vindos!
+Eu sou o Lucas Andrade um apaixonado por banco de dados e atualmente em transição de carreira. Minha experiência em logística reforçou minha compreensão sobre a importância da eficiência e precisão no gerenciamento de dados. Essa bagagem me trouxe uma visão prática e estratégica, que agora aplico no universo dos dados.
+
+Cursando do 2º semestre em Banco de Dados na Faculdade Impacta de Tecnologia, com interesse em 
+Data Engineer, Business Intelligence e Data Analytics !! Ao longo deste breve percurso acadêmico, desenvolvi competências em: Análise Exploratória de Dados, Estrutura de dados, lógica da programação, Estatística, Engenharia de dados.
+
+Minhas habilidades são:
+SQL 
+PYTHON (Pandas, Numpy, Matplotlib, Seaborn)
+AWS (Dynamodb, S3, Athena, Rds) 
+EXCEL
+PYSPARK
+DATABRICKS
+
+Estou me preparado para novos desafios e empolgado para aplicar meus conhecimentos em projetos reais e poder agregar valor por onde eu passar .</h3>
 
 ###
 
