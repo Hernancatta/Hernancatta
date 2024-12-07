@@ -1,4 +1,4 @@
-<p align="left">📚Atualmente estou fazendo o curso Engearia de dados na Stack Academy
+<p align="left">📚Atualmente estou fazendo o curso Engenharia de dados na Stack Academy
 
 ###
 
