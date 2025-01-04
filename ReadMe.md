@@ -18,8 +18,7 @@ Estou me preparado para novos desafios e empolgado para aplicar meus conheciment
 
 <div align="left">
 <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" height="40" alt="microsoftsqlserver logo" 
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" height="40" alt="microsoftsqlserver logo" 
-  
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" height="40"
 </div>
 
 ###
